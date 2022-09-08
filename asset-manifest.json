@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bca005a9.css",
+    "main.js": "/static/js/main.8a96ad7d.js",
+    "static/js/787.7074ccea.chunk.js": "/static/js/787.7074ccea.chunk.js",
+    "static/media/mobilebanner.png": "/static/media/mobilebanner.13df14d844310acacaee.png",
+    "static/media/jengabiashara.jpg": "/static/media/jengabiashara.f17678e232ba14c7934a.jpg",
+    "static/media/womengroups.jpg": "/static/media/womengroups.d897b43a962e63867a66.jpg",
+    "static/media/okoajahazi.jpg": "/static/media/okoajahazi.250b91b5b13833f5d45d.jpg",
+    "static/media/Logo.png": "/static/media/Logo.7d3ce2055d71d7f1c120.png",
+    "index.html": "/index.html",
+    "main.bca005a9.css.map": "/static/css/main.bca005a9.css.map",
+    "main.8a96ad7d.js.map": "/static/js/main.8a96ad7d.js.map",
+    "787.7074ccea.chunk.js.map": "/static/js/787.7074ccea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bca005a9.css",
+    "static/js/main.8a96ad7d.js"
+  ]
+}
